@@ -35,7 +35,8 @@ Here are some ideas to get you started:
 
 
 [instagram]: https://www.instagram.com/celilhn
-[bionluk]: https://bionluk.com/peyksoftware/ekibimle-beraber-mobil-uygulama-gelistirebilirim-332677
+[bionluk]: https://bionluk.com/celilhn
 [linkedin]: https://www.linkedin.com/in/celilhn/
+[medium]: https://demiribrahimtalha.medium.com/
 [gmail]: mailto:celilhnkadioglu@gmail.com
 <br />
