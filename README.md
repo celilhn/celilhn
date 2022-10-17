@@ -21,5 +21,4 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)]([link](https://www.linkedin.com/in/celilhn/)) 
 
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=celilhn&show_icons=true&theme=gradient) 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=celilhn&show_icons=true&theme=radical)
