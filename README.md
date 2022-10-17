@@ -1,6 +1,8 @@
 ### Hi there 👋
+### I'm Full Stack Developer 🚀
 ### 🔭 I’m currently working at WPP
 ### 🌱 I’m currently learning clean architecture and use that in my projects.
+### ⚡ Fun fact: I love to swim 🏊‍♀️ and cycling 🚴‍♀️
 <!--
 **celilhn/celilhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
